@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Análise de SLA",
+  "description": "Uma aplicação para analisar dados de Ordens de Serviço (OS), calcular métricas de SLA e identificar ofensores. Inclui análise de dados com IA para insights.",
+  "requestFramePermissions": []
+}
